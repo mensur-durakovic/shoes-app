@@ -1,6 +1,8 @@
 # shoes_app
 
-A new Flutter project.
+A Flutter project for 3D shoes app screen.
+
+![3D shoes](https://media.giphy.com/media/KhkzkvfvCTEXpyHOhd/giphy.gif)
 
 ## Getting Started
 
